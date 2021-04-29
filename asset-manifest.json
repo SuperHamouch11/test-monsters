@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/test-monsters/static/css/main.6191406b.chunk.css",
-    "main.js": "/test-monsters/static/js/main.593447e0.chunk.js",
-    "main.js.map": "/test-monsters/static/js/main.593447e0.chunk.js.map",
-    "runtime-main.js": "/test-monsters/static/js/runtime-main.675ed00b.js",
-    "runtime-main.js.map": "/test-monsters/static/js/runtime-main.675ed00b.js.map",
-    "static/js/2.053fb966.chunk.js": "/test-monsters/static/js/2.053fb966.chunk.js",
-    "static/js/2.053fb966.chunk.js.map": "/test-monsters/static/js/2.053fb966.chunk.js.map",
-    "static/js/3.1ed23f05.chunk.js": "/test-monsters/static/js/3.1ed23f05.chunk.js",
-    "static/js/3.1ed23f05.chunk.js.map": "/test-monsters/static/js/3.1ed23f05.chunk.js.map",
-    "index.html": "/test-monsters/index.html",
-    "static/css/main.6191406b.chunk.css.map": "/test-monsters/static/css/main.6191406b.chunk.css.map",
-    "static/js/2.053fb966.chunk.js.LICENSE.txt": "/test-monsters/static/js/2.053fb966.chunk.js.LICENSE.txt"
+    "main.css": "/SuperHamouch11/test-monsters/static/css/main.04ec54ff.chunk.css",
+    "main.js": "/SuperHamouch11/test-monsters/static/js/main.378b1a8d.chunk.js",
+    "main.js.map": "/SuperHamouch11/test-monsters/static/js/main.378b1a8d.chunk.js.map",
+    "runtime-main.js": "/SuperHamouch11/test-monsters/static/js/runtime-main.2614684d.js",
+    "runtime-main.js.map": "/SuperHamouch11/test-monsters/static/js/runtime-main.2614684d.js.map",
+    "static/js/2.246ea61d.chunk.js": "/SuperHamouch11/test-monsters/static/js/2.246ea61d.chunk.js",
+    "static/js/2.246ea61d.chunk.js.map": "/SuperHamouch11/test-monsters/static/js/2.246ea61d.chunk.js.map",
+    "static/js/3.870dbb10.chunk.js": "/SuperHamouch11/test-monsters/static/js/3.870dbb10.chunk.js",
+    "static/js/3.870dbb10.chunk.js.map": "/SuperHamouch11/test-monsters/static/js/3.870dbb10.chunk.js.map",
+    "index.html": "/SuperHamouch11/test-monsters/index.html",
+    "static/css/main.04ec54ff.chunk.css.map": "/SuperHamouch11/test-monsters/static/css/main.04ec54ff.chunk.css.map",
+    "static/js/2.246ea61d.chunk.js.LICENSE.txt": "/SuperHamouch11/test-monsters/static/js/2.246ea61d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.675ed00b.js",
-    "static/js/2.053fb966.chunk.js",
-    "static/css/main.6191406b.chunk.css",
-    "static/js/main.593447e0.chunk.js"
+    "static/js/runtime-main.2614684d.js",
+    "static/js/2.246ea61d.chunk.js",
+    "static/css/main.04ec54ff.chunk.css",
+    "static/js/main.378b1a8d.chunk.js"
   ]
 }
